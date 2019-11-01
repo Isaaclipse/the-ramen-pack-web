@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: isaaclipse/the-ramen-pack-web
 
 media_folder: static/assets
 public_folder: assets

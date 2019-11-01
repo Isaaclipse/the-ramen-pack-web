@@ -1,22 +1,22 @@
 ---
-title: Concerts
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-date: 2019-06-28
+title: Castle Point Anime Con 2019
+description: View our photography and work from Castle Point Anime Con 2019
+date: 2019-04-28
 template: portfolio
-image: ./image.jpg
+image: ./zelda.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Ramen Pack attended CPAC 2019 as panelist guests. This con was very well done from both an attendee and panelist perspective. Stay posted for more of our future content from this con.
 
 [row]
 [col]
-![image](./b1.jpg)
+![image](./DSC_0013.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 [/col]
 [col]
-![image](./b2.jpg)
+![image](./DSC_0050.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 [row]
 [col]
-![image](./w1.jpg)
+![image](./DSC_0076.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
@@ -34,19 +34,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 [row]
 [col]
-![image](./l1.jpg)
+![image](./DSC_0103.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 [/col]
 [col]
-![image](./l2.jpg)
+![image](./DSC_0116.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 [/col]
 [col]
-![image](./l3.jpg)
+![image](./group.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
 

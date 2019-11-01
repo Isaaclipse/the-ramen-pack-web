@@ -1,11 +1,11 @@
 let siteMetadata = {
-    title: `Elemental`,
+    title: `The Ramen Pack`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
-    titleImage: `/images/wall.jpg`,
+    titleImage: `/images/wall.png`,
     introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    description: `A New York based independent production company providing content on pop culture and media for all audiences.`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -39,7 +39,7 @@ let siteMetadata = {
             url: "/privacy-policy"
         },
         {
-            name: "GitHub",
+            name: "PATREON",
             url: "https://github.com/akzhy/gatsby-starter-elemental"
         }
     ],
@@ -47,31 +47,31 @@ let siteMetadata = {
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#"
+            url: "https://www.facebook.com/theramenpack/"
         },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#"
+            url: "https://twitter.com/ramen_pack"
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#"
+            url: "https://www.instagram.com/ramenpack__/"
         },
         {
             name: "Youtube",
             icon: "/images/Youtube.svg",
-            url: "#"
+            url: "https://www.youtube.com/channel/UCwk3MbS5MqlqbGHPaIMtlrA"
         }
     ],
     contact: {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "./test.json",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
-        phone: "000-000-0000",
-        address: "1234 \nLocation \nLocation"
+        description: `Contact us for business-related inquiries`,
+        mail: "theramenpack@gmail.com",
+        phone: "",
+        address: ""
     }
 };
 
