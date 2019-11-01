@@ -4,7 +4,7 @@ let siteMetadata = {
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.png`,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
+    introTag: `MEDIA | PHOTOGRAPHY | VIDEOGRAPHY`,
     description: `A New York based independent production company providing content on pop culture and media for all audiences.`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,
