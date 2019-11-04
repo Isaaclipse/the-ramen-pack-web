@@ -1,13 +1,22 @@
 backend:
-  name: test-repo
+  name: github
+  repo: isaaclipse/the-ramen-pack-web
 
-media_folder: static/assets
-public_folder: assets
+site_url: https://theramenpack.netlify.com
 
-collection:
-  - name: blog
-    label: Blog
-    folder: blog
+publish_mode: editorial_workflow
+
+media_folder: static/uploads/images
+public_folder: /uploads/
+
+site_url: theramenpack.netlify.com
+
+logo_url: https://theramenpack.netlify.com/images/logo.png
+
+collections:
+  - label: "Blog"
+    name: "blog"
+    folder: "contents/blog
     create: true
     fields:
       - { name: path, label: Path }
