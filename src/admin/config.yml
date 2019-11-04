@@ -14,9 +14,9 @@ site_url: theramenpack.netlify.com
 logo_url: https://theramenpack.netlify.com/images/logo.png
 
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "contents/blog
+  - label: "Post"
+    name: "post"
+    folder: "./contents/blog"
     create: true
     fields:
       - { name: path, label: Path }
