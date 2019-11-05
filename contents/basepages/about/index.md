@@ -6,6 +6,4 @@ image:
 
 ![image](./DSC_0162.JPG)
 
-The Ramen Pack is an independent digital media production company based in New York City. Founded by a small group of photographers and artists with appreciation for Western film and Eastern animation, The Company delivers anime and foreign media content for audiences seeking a fresh perspective.
-
-For business inquiries: theramenpack@gmail.com
+The Ramen Pack is an independent digital media production company based in New York City. It was founded by a group of photographers and artists out of appreciation for Western and Eastern media. The Company delivers international media, anime and pop culture content for audiences seeking a fresh perspective.

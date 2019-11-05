@@ -11,13 +11,13 @@ The Ramen Pack attended Castle Point Anime Con for the first time as panelist gu
 [col]
 ![image](./DSC_0013.png)
 
-Cosplayer: Flowithit Cosplay
+Cosplayer: Flowithit Cosplay.
 
 [/col]
 [col]
 ![image](./DSC_0050.png)
 
-All Might from My Hero Academia
+All Might from My Hero Academia was here!
 
 [/col]
 [/row]
@@ -26,7 +26,7 @@ All Might from My Hero Academia
 [col]
 ![image](./DSC_0076.png)
 
-This idol group cosplay had quite the performance
+This idol group cosplay had quite the performance.
 
 [/col]
 [/row]
@@ -35,19 +35,19 @@ This idol group cosplay had quite the performance
 [col]
 ![image](./DSC_0103.png)
 
-The entrance to the con made for great exterior shots
+The entrance to the con made for great exterior shots!
 
 [/col]
 [col]
 ![image](./DSC_0116.png)
 
-Spider-Gwen
+Spider-Gwen had the scoop.
 
 [/col]
 [col]
 ![image](./zelda.jpg)
 
-Gerudo Link cosplay
+Gerudo Link cosplay. Featuring: leaf.
 
 [/col]
 [/row]
