@@ -1,24 +1,23 @@
 ---
 title: Castle Point Anime Con 2019
-description: View our photography and work from Castle Point Anime Con 2019
+description: See our cosplay photography from CPAC 2019
 date: 2019-04-28
 template: portfolio
 image: ./zelda.jpg
 ---
-
-The Ramen Pack attended CPAC 2019 as panelists. This was our first time and had nothing but praise. Full album here: https://bit.ly/2qhkHON
+The Ramen Pack attended Castle Point Anime Con for the first time as panelist guests. We have nothing but praise for this con. And some great cosplays!
 
 [row]
 [col]
 ![image](./DSC_0013.png)
 
-Cosplayer: Flowithit Cosplay as an author
+Cosplayer: Flowithit Cosplay
 
 [/col]
 [col]
 ![image](./DSC_0050.png)
 
-Allmight from My Hero Academia
+All Might from My Hero Academia
 
 [/col]
 [/row]
@@ -27,7 +26,7 @@ Allmight from My Hero Academia
 [col]
 ![image](./DSC_0076.png)
 
-An idol group cosplay
+This idol group cosplay had quite the performance
 
 [/col]
 [/row]
@@ -36,7 +35,7 @@ An idol group cosplay
 [col]
 ![image](./DSC_0103.png)
 
-A samurai warrior cosplay
+The entrance to the con made for great exterior shots
 
 [/col]
 [col]
@@ -48,7 +47,9 @@ Spider-Gwen
 [col]
 ![image](./zelda.jpg)
 
-The fields made for great exterior photos
+Gerudo Link cosplay
 
 [/col]
 [/row]
+
+Check out more cosplays from Castle Point Anime Con here: https://bit.ly/2qhkHON

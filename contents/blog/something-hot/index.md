@@ -1,6 +1,6 @@
 ---
 title: NYCC 2019 Retrospective
-date: 2019-10-15
+date: 2019-10-25
 template: blog
 image: ./nycclilo.jpg
 banner: ./nyccbanner.jpg

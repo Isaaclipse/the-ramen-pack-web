@@ -1,6 +1,6 @@
 ---
 title: Cosplay Photography Tips from The Pack
-date: 2019-09-29
+date: 2019-09-23
 template: blog
 image: ./group.png
 banner: ./group2.png

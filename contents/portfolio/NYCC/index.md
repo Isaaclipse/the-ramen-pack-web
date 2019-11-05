@@ -1,12 +1,12 @@
 ---
 title: New York Comic Con 2019
-description: View our photography and work from New York Comic Con 2019
+description: Check out our cosplay photography from New York Comic Con 2019
 date: 2019-10-8
 template: portfolio
 image: ./princess.png
 ---
 
-The Ramen Pack attended NYCC 2019 and saw some amazing and well done cosplays. Every year the crowd seems to get bigger and more impressive, and this year was no different. See more cosplays from NYCC here: https://bit.ly/2WJzxtA
+The Ramen Pack attended NYCC 2019 and saw some amazing and well done cosplays. Every year the crowd seems to get bigger and more impressive, and this year was no different.
 
 [row]
 [col]
@@ -36,7 +36,7 @@ Goblinslayer from Goblinslayer
 [col]
 ![image](princess.png)
 
-Isabelle and friends from Animal Crossing
+Princess Mononoke
 
 [/col]
 [col]
@@ -52,3 +52,5 @@ Lucina from Fire Emblem: Awakening
 
 [/col]
 [/row]
+
+Check out the rest of our NYCC photos here:  https://bit.ly/2WJzxtA

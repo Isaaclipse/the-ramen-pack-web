@@ -52,12 +52,12 @@ let siteMetadata = {
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "https://twitter.com/ramen_pack"
+            url: "https://twitter.com/theramenpack"
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "https://www.instagram.com/ramenpack__/"
+            url: "https://www.instagram.com/theramenpack/"
         },
         {
             name: "Youtube",
