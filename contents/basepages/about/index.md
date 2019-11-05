@@ -1,7 +1,7 @@
 ---
 title: About
 template: basepage
-image: ./
+image:
 ---
 
 ![image](./DSC_0162.JPG)
