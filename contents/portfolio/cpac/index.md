@@ -46,7 +46,7 @@ Spider-Gwen
 
 [/col]
 [col]
-![image](./DSC_0162.png)
+![image](./zelda.jpg)
 
 The fields made for great exterior photos
 
