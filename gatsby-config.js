@@ -5,7 +5,7 @@ let siteMetadata = {
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
     introTag: `MEDIA | PHOTOGRAPHY | VIDEOGRAPHY`,
-    description: `A New York based independent production company providing content on pop culture and media for all audiences.`,
+    description: `Anime, pop culture, & digital media. All in one pack.`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
